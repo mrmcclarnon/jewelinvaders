@@ -6,7 +6,7 @@ var gemspeed = 10;
 var invader;
 var invaderspeed = 4;
 var laser;
-var laserspeed = 20;
+var laserspeed = 15;
 var lasermoving = false;
 var akey;
 var dkey;
