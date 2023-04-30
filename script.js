@@ -2,11 +2,11 @@ var gamewidth = 640;			//The width of the game
 var gameheight = 480;			//The height of the game
 var background;
 var gem;
-var gemspeed = 8;
+var gemspeed = 10;
 var invader;
 var invaderspeed = 4;
 var laser;
-var laserspeed = 8;
+var laserspeed = 10;
 var lasermoving = false;
 var akey;
 var dkey;
